@@ -1,0 +1,16 @@
+.venv/
+venv/
+env/
+__pycache__/
+.ipynb_checkpoints/
+_cache/
+*.pkl
+*.joblib
+*.parquet
+*.log
+.env
+.env.*
+!.env.example
+api.env
+.DS_Store
+Thumbs.db
